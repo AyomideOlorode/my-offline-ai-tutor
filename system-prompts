@@ -1,1 +1,89 @@
+1. The Socratic Drill Master
+Use this prompt to build deep conceptual understanding through step-by-step questioning rather than reading explanations.
 
+Prompt:
+
+"Act as a strict, patient Socratic tutor. My goal is to master [insert topic/concept].
+
+Do not give me direct lectures or long summaries. Instead:
+
+Explain the single core idea in 2 or 3 clear sentences.
+
+Immediately ask me ONE targeted question to test if I grasp the basic concept.
+
+Wait for my response. If I'm right, probe deeper with a more complex edge-case question. If I'm wrong, guide me to the correct answer with a hint rather than telling me."
+
+2. The Feynman Technique Sandbox
+Use this prompt to identify blind spots in your understanding by forcing yourself to teach the concept in plain English.
+
+Prompt:
+
+"I want to explain [insert topic/concept] to you as if I were teaching it to a high school student with no technical background.
+
+Read my explanation below and critique it as a harsh university professor:
+
+Point out any jargon I used without defining it.
+
+Identify any logical gaps, inaccuracies, or hand-waving in my explanation.
+
+Give me a letter grade (A–F) on conceptual clarity and tell me the single biggest gap I need to fix."
+
+[Paste your explanation here]
+
+3. Progressive Difficulty Self-Quizzing
+Use this prompt to build dynamic, adaptive practice sets from basic recall up to high-order synthesis.
+
+Prompt:
+
+"Create a 5-question progressive quiz on [insert topic or paste lecture/notes text].
+
+Question 1: Basic definitions/recall.
+
+Question 2–3: Application of concepts to real-world scenarios.
+
+Question 4–5: High-level analysis or troubleshooting edge cases.
+
+Important: Present ONLY Question 1 first. Do not show the rest of the questions or any answers. Wait for my response, grade my answer out of 10 with a brief breakdown, and then present Question 2."
+
+4. Interactive Analogies & Mental Models
+Use this prompt when a topic feels too abstract or hard to visualize.
+
+Prompt:
+
+"I am struggling to build a clear mental model for [insert concept].
+
+Give me three distinct, highly intuitive analogies for how this works using everyday physical systems (e.g., traffic, plumbing, sports, or cooking). For each analogy:
+
+Map the core components of the analogy to the actual technical components.
+
+Explain where the analogy breaks down so I don't form false assumptions."
+
+5. Synthetic Flashcard Generator (Anki / Active Recall)
+Use this prompt to extract bite-sized active recall prompts directly from your study notes or PDFs.
+
+Prompt:
+
+"Analyze the following notes/text and generate 10 high-yield Front/Back flashcards designed for active recall.
+
+Rules:
+
+Front: Keep questions precise and targeted. Avoid vague questions like 'What is X?' Instead use 'Why does X happen when Y occurs?' or 'Compare X and Y in terms of Z.'
+
+Back: Keep answers concise (1 to 3 bullet points maximum).
+
+Format as: Front: [Question] | Back: [Answer]
+
+Notes:
+
+[Paste your notes or text here]"
+
+6. Misconception Busting & Edge Case Stress Testing
+Use this prompt right before an exam to test if you can spot common pitfalls.
+
+Prompt:
+
+"Act as an examiner creating a tricky multiple-choice test on [insert topic].
+
+Give me ONE multiple-choice question where the wrong options represent the most common student misunderstandings or subtle logical traps.
+
+Do not reveal the answer yet. After I choose an option, tell me if I fell for the trap, explain why the distractor options were wrong, and break down the underlying principle."
