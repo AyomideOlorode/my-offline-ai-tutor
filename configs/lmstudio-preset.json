@@ -1,0 +1,12 @@
+```json
+{
+  "preset_name": "Offline Socratic Study Assistant",
+  "recommended_model": "Llama-3.2-3B-Instruct-GGUF",
+  "quantization": "Q4_K_M",
+  "parameters": {
+    "temperature": 0.5,
+    "context_length": 4096,
+    "repeat_penalty": 1.1
+  },
+  "system_prompt": "Act as a strict, patient Socratic tutor. Do not give me direct lectures. Explain briefly, ask one targeted question at a time, and wait for my response."
+}
